@@ -1,2 +1,4 @@
 # MalayCorpus-annotatedTweetwithSentiment
-Siti Noor Allia Noor Ariffin and Sabrina Tiun, “Rule-based Text Normalization for Malay Social Media Texts” International Journal of Advanced Computer Science and Applications(IJACSA), 11(10), 2020. http://dx.doi.org/10.14569/IJACSA.2020.0111021
+This corpus is a Malay tweet corpus collected from March to Dec, 2020 ( see 2020 folder) and from Jan to Sept,2022 (see 2021 folder).
+Collected based on #covid related keyword based on on four categories: economy, health, safety and education.
+Please cite : Sabrina Tiun  and Siti Noor Allia Noor Ariffin. (2023). Annotated Malay tweet with sentiment.
